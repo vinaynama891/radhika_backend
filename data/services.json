@@ -1,0 +1,50 @@
+[
+  {
+    "icon": "Heart",
+    "title": "Wedding Decoration",
+    "desc": "Bespoke mandaps, floral entrances and grand reception stages.",
+    "img": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=800&q=80",
+    "id": "7a3875cb-5937-4ac7-be07-35477d33d36d",
+    "createdAt": "2026-06-04T11:52:55.709Z"
+  },
+  {
+    "icon": "Sparkles",
+    "title": "Engagement Decoration",
+    "desc": "Romantic ring ceremony setups, candle stages, hanging florals.",
+    "img": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&w=800&q=80",
+    "id": "08cd3e8f-0ba6-4d26-a6aa-b33aea460ed9",
+    "createdAt": "2026-06-04T11:52:55.709Z"
+  },
+  {
+    "icon": "Cake",
+    "title": "Birthday Decoration",
+    "desc": "Themed balloon arches, dessert tables and photobooth styling.",
+    "img": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=800&q=80",
+    "id": "a5e2a344-bae8-4a98-9a49-7f81897f371f",
+    "createdAt": "2026-06-04T11:52:55.709Z"
+  },
+  {
+    "icon": "Gem",
+    "title": "Anniversary Decoration",
+    "desc": "Intimate candle-lit dinners with personalised love-story decor.",
+    "img": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=800&q=80",
+    "id": "8e842f34-7245-44a5-a9b6-7796713bec14",
+    "createdAt": "2026-06-04T11:52:55.709Z"
+  },
+  {
+    "icon": "Briefcase",
+    "title": "Corporate Events",
+    "desc": "Conferences, galas and product launches with premium staging.",
+    "img": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=800&q=80",
+    "id": "7e15c9ca-2dac-404a-8cb0-1b68e567b827",
+    "createdAt": "2026-06-04T11:52:55.709Z"
+  },
+  {
+    "icon": "Wand2",
+    "title": "Theme Decorations",
+    "desc": "Royal, Bollywood, vintage, fairy-tale — any concept, fully built.",
+    "img": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?auto=format&fit=crop&w=800&q=80",
+    "id": "feb8a314-2363-4649-8ec4-a2c5d2dabee9",
+    "createdAt": "2026-06-04T11:52:55.709Z"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "src": "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?auto=format&fit=crop&w=800&q=80",
+    "cat": "Wedding",
+    "tall": true,
+    "alt": "Floral mandap with chandeliers",
+    "id": "45ffe856-78e4-4dac-ac5b-cd4abc794658",
+    "createdAt": "2026-06-04T11:52:55.714Z"
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=800&q=80",
+    "cat": "Wedding",
+    "tall": false,
+    "alt": "White rose wedding stage",
+    "id": "fa3dd1b3-c761-41e5-90b2-48182b5aca00",
+    "createdAt": "2026-06-04T11:52:55.714Z"
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&w=800&q=80",
+    "cat": "Engagement",
+    "tall": false,
+    "alt": "Engagement candle backdrop",
+    "id": "6e2e068e-bfee-4201-8a72-7e8bd199696a",
+    "createdAt": "2026-06-04T11:52:55.714Z"
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=800&q=80",
+    "cat": "Birthday",
+    "tall": true,
+    "alt": "Gold balloon arch birthday",
+    "id": "faae55cc-b8cf-4784-b0f0-570ceb8cfc92",
+    "createdAt": "2026-06-04T11:52:55.714Z"
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=800&q=80",
+    "cat": "Anniversary",
+    "tall": false,
+    "alt": "Anniversary dinner setup",
+    "id": "3ecda741-7e80-49f2-a267-a33e6269f4ce",
+    "createdAt": "2026-06-04T11:52:55.714Z"
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=800&q=80",
+    "cat": "Corporate",
+    "tall": false,
+    "alt": "Corporate event hall",
+    "id": "61149517-f094-4c61-834e-e1201906102a",
+    "createdAt": "2026-06-04T11:52:55.714Z"
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?auto=format&fit=crop&w=800&q=80",
+    "cat": "Theme",
+    "tall": true,
+    "alt": "Floral ceiling theme decor",
+    "id": "704fdd86-1c9a-4698-a04b-be2bbc4f31a3",
+    "createdAt": "2026-06-04T11:52:55.714Z"
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1523438885200-e635ba2c371e?auto=format&fit=crop&w=800&q=80",
+    "cat": "Wedding",
+    "tall": false,
+    "alt": "Floral wedding entrance",
+    "id": "9a800bad-80a6-489d-ac1a-ff78ad0a1f51",
+    "createdAt": "2026-06-04T11:52:55.714Z"
+  }
+]
